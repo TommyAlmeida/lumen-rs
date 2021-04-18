@@ -1,0 +1,1 @@
+type Vector2D = [f64; 2];
