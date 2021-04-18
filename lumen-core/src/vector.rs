@@ -1,1 +1,1 @@
-type Vector2D = [f64; 2];
+pub type Vector2D = [f64; 2];

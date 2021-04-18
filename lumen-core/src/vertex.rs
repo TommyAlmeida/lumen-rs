@@ -1,4 +1,5 @@
 use crate::color::Color;
+use crate::vector::Vector2D;
 
 #[derive(Debug, Copy, Clone)]
 pub struct TextureVertex {
